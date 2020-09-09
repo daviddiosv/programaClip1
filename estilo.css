@@ -1,0 +1,38 @@
+body {
+    background-color: thistle;
+}
+header {
+    text-align: center;
+    color: whitesmoke;
+    background-color: violet;
+    font-size: xx-large;
+}
+footer {
+    text-align: right;
+}
+img {
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    width: 475px;
+    height: 290px;
+}
+h2 {
+    text-align: center;
+    font-size: x-large;
+}
+h3 {
+    font-size: large;
+}
+.tabla {
+    background-color: whiteblack;
+    color: black;
+    width: 100%;
+}
+table, th , tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+p span {
+    text-align: center;
+    font-size: x-large;
+}
